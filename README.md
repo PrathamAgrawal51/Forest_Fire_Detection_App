@@ -26,7 +26,7 @@ Streamlit Link: https://forestfiredetectionapp-pratham.streamlit.app/
 
 ## 🧠 Tech Stack
 
-- Python 3.x  
+- Python 3.10.7  
 - Jupyter Notebook  
 - Streamlit  
 - TensorFlow / Keras or PyTorch  
