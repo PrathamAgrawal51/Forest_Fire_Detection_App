@@ -1,2 +1,2 @@
 # Forest_Fire_Detection_App
-Created as a part of Edunet Training
+Dataset Link: https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset
