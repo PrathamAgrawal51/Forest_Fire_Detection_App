@@ -3,6 +3,7 @@
 A machine learning-powered web application to detect forest fires from satellite images. Built with Python, Streamlit, and deep learning techniques, this tool aims to assist in early detection and environmental monitoring.
 
 Dataset Link: https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset
+Streamlit Link: https://forestfiredetectionapp-pratham.streamlit.app/
 
 ---
 
